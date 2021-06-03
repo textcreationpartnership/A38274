@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Die Mercurii, [1]4 Martii, 1648 [i.e. 1649] resolved by the Commons assembled in Parliament, that Sir Iohn Stowell knight be proceeded against for life [i]n the upper bench ...</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38274</idno><idno type="EEBO-CITATION">26916159</idno>
+  <idno type="VID">109854</idno>
+  <idno type="EEBO-PROQUEST">2248537669</idno>
+  
+            <idno type="STC">Wing E2709</idno>
+            <idno type="STC">ESTC R43151</idno>
+            <idno type="OCLC">26916159</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38274)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109854)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1715:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Die Mercurii, [1]4 Martii, 1648 [i.e. 1649] resolved by the Commons assembled in Parliament, that Sir Iohn Stowell knight be proceeded against for life [i]n the upper bench ...</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information taken from first two lines of text.</note>
+                  <note>Imperfect: creased, with loss of text.</note>
+                  <note>"Ordered by the Commons ... that the resolutions of the House touching delinquents and their compositions be forthwith printed and published.  Hen. Scobell. Cler. Parliament."</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Proclamations --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Parliamentary_resolutions">
+            <pb facs="tcp:109854:1"/>
+            <pb facs="tcp:109854:2"/>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, 4 Martii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved by the Commons assembled in Parliament,</hi>
+                  <lb/>
+                  <seg rend="decorInit">T</seg>HAT Sir <hi>Iohn Stowell</hi> Knight be proceeded against for life in the upper Bench.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That <hi>David Ienkin</hi> be proceeded against for a tryall for life; And that the Judges in <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat Circuit in <hi>Wales,</hi> be required to proceed to an Indictment against him, in the proper County in the next Assizes.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That <hi>Charles Stuart</hi> eldest son to the late King, <hi>Iames Stuart</hi> second son of the late King, the Duke of <hi>Buckingham, Iohn</hi> Earl of <hi>Bristoll, William</hi> Earl of <hi>Newcastle,</hi> Sir <hi>William Widdrington, George</hi> Lord <hi>Digby;</hi> Sir <hi>Philip Musgrave,</hi> Sir <hi>Marmaduke Langdale,</hi> Sir <hi>Richard Greenvile,</hi> Sir <hi>Francis Doddington,</hi> Sir <hi>Iohn Culpeper,</hi> Sir <hi>Iohn Byron, the</hi> Earl of <hi>Worcester,</hi> and Sir <hi>Iohn Winter,</hi> and all such persons as have been acting in the plotting, designing or assisting the Rebellion in <hi>Ireland,</hi> shall be proscribed and banished as Enemies and Traitors to the Common-wealth, and shall dye without mercy where ever they shall bee found within the limits of this Nation, and their Estates shall be confiscate, and forthwith imployed for the use of the Common-wealth.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That Sir <hi>Iohn Winter</hi> shall have convenient time to depart into any forraign parts.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 17 Martii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That Colonell <hi>Mathew Boynton,</hi> late Governour of <hi>Scarborough,</hi> Sir <hi>Iohn Morley,</hi> and Colonell <hi>Leveson</hi> late Governour of <hi>Dudly castle</hi> shall be proscribed and banished as Enemies and Traitors to the Common-wealth, &amp;c.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all other Delinquents, members of this Common-wealth, (not comprehended in the former exceptions) shall be admitted to com<g ref="char:EOLhyphen"/>pound, (except Papists in Arms, for whose Compositions, rules are not yet agreed upon.)</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the time for the comming in of all Delinquents within the Land, whose habitations are within eighty miles of <hi>London,</hi> and for the filing of their Petitions and particulars shall be before the twentieth day of <hi>Aprill</hi> next, and for all others residing at a further distance before the third day of <hi>May.</hi>
+               </p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the times for perfecting the Compositions of such Delinquents; that is to say, for submitting to their Fines, and paying one moiety, and securing the remainder at three months day; shall be six weeks from the respective dayes before limited for filing their Petitions and particulars.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the time for the comming in of Delinquents not excepted, and now beyond Seas, and out of this Land, shall be the first of <hi>Iune</hi> next, for the filing of their Petitions and particulars, and six weeks after for the perfecting of their Compositions, as is before exprest.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the Rents and Profits of all sequestred Estates, (except the persons before excepted) growing due at our Lady day next, shall be stayed and detained in the Tennants hands, untill the first day of <hi>Inne</hi> next.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the Estates of all such persons who shall neglect to render themselves, and submit to their Compositions at the respective times before limited, shall be confiscate and converted to the use of the Common-wealth, and no further allowance shal be thenceforth made out of the same to the wife or chil<g ref="char:EOLhyphen"/>dren of any such Delinquent.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That Delinquents who were formerly excepted from pardon by their particular names or Titles, who have not been formerly, but now are admitted to Composition, (except such as have already compounded) shall pay one full moiety of the true value of their Estates.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, 21 Martii, 1648.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such Delinquents as have been Members of either House of Parliament, and all Judges, Officers towards the Law, common or civil, and all Serjeants, Counsellors, and Attourneys, Doctors, Advocates, Proctors of the Law, common or civill, and all Bishops, Clergy men, Masters, and Fel<g ref="char:EOLhyphen"/>lowes of any Colledge or Hall, in either of the Universities or elsewhere, And all Masters of Schools or Hospitalls, and also <hi>Humphry Bennet</hi> Esq; Sir <hi>Edward Foord,</hi> Sir <hi>George Vaughan,</hi> and all other the persons named in the fourth Qualification of the Propositions sent to <hi>Hampton</hi> Court, to pay one third (except such of the said persons as were included in any Artitles whereof they have the benefit shall pay one full third part of the true value of their Estates.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all other persons Delinquents (not included in any the former Qualifications) shall pay one full sixth part of the true value of their Estates.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That if any person not yet sequestred, who conceives or doubts himself to be lyable to Sequestration for any thing said or done in relation to the War, and was not publiquely and personally engaged in the latter War shall come in and discover his case to the Commissioners for Compositions before the first day of <hi>Iuly,</hi> 1649. (being not before such discovery, judicially impeached and discovered for the same by any other) then such person (if his case so dis<g ref="char:EOLhyphen"/>covered shall be adjudged liable to Sequestration) shall be admitted to compound, and discharged of his Delinquency, paying one years value for Land, and a twentieth part for his personall Estate. But in case any such Delinquent be first judicially impeached and discovered by another, or shall not be discovered by himself before the said first day of <hi>Iuly,</hi> 1649. Then he shall not be admitted to compound at any lower rate then is appointed for the qualification under which hee falls.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That no promissary oath shall be imposed upon Compounders as a condition without which they may not compound.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all persons who have formerly compounded, and have concealed or under valued any part of their Estates, and shall themselves discover it before the first day of <hi>Iune</hi> next, shal be admitted to compound for the same, at the same rate for which they did Compound for the other part of their Estates. But if any such concealment or under value shall be hereafter discovered by any other person, before the Delinquent himself discover the same, and shall not be compounded for (within the times herein before limited) according to the rates heretofore imposed by Order of Parliament upon such discoveries, that then <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uch estate which is concealed, or so much as appears to be above the value compounded for, shall be forfeit to the Common-wealth.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such persons as have been engaged in the latter Warre, and not in any former engagement against the Parliament, shall pay one sixth part of the true value of their Estates (except such as are included in any particular qualification before mentioned, who are to pay according to the severall rates in those qualifications.)</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such persons as have been engaged in the latter War against the Parliament, and have formerly compounded, and have not paid their whole Fines, shall make good the remainder of their Fines according to their agreement.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such persons as have been engaged in the latter War against the Parliament, and have formerly compounded, shall pay one full sixth part of their Estates, over and above their former Fines.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such Delinquents as shall perfect their Compositions by the respective dayes herein before limited, whose sequestrations have con<g ref="char:EOLhyphen"/>tinued upon their Estates to this day, shall be exempted from paying any fifth and twentieth part.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 19 Maii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That all such Delinquents that have compounded at <hi>Goldsmiths-hall,</hi> and their Compositions reported and allowed, and their Ordinances passed both Houses of Parliament, shall pay in their Monies according to their Compositions, without expecting any further Reveiw; And that all those whose Reports are made, and Ordinances passed this House, and not passed in the House of Peers, upon what pretence whatsoever, except for the breach of Articles, shall pay in their Moneys as aforesaid, without expecting any Reveiw.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 19. Maii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>Ordered by the Commons assembled in Parliament, That the Cases of all such Delinquents, as were appointed by Order, to be taken into consideration this day, be referred to the Committee at <hi>Goldsmiths-hall,</hi> to hear and determine the same, as the merits of their particular cases shall require, according to the rules formerly given by this House.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <dateline>
+                     <date>Die Mercurii, 23 Maii, 1649.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <hi>Resolved upon the question by the Commons assembled in Parliament,</hi> That the Reports of all such Fines as have not past either House, shall bee forthwith drawn up and presented to the Commissioners mentioned in the Act, Entituled, <hi>(An Act prescribing certain times to Delinquents for perfecting their Compositi<g ref="char:EOLhyphen"/>ons,)</hi> for their approbation in order to a finall discharge.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the said reports shall be made to the Commissioners in order of time as they were set, and not otherwise.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That such Reports being made, and the Fines allowed and confirmed by the said Commissioners, a finall discharge shall issue forth to every such Compounder, according to the authority and directions expressed in the said Act; and if any Compounder shal not pay in his whole Fine within six weeks after his Composition shall be allowed and confirmed as aforesaid, that then he shall incurre the full penalties expressed in the aforesaid Act.</p>
+               <p>
+                  <hi>Resolved, &amp;c.</hi> That the Cases of all Delinquents Compounders, who have petitioned for Mitigation of their Compositions, and all such whose Reports are not yet made to this House, and are ordered to be specially reported (except all such as are secluded by the Vote made the 19 of <hi>May,</hi> 1649. shall be, and hereby are referred unto the Commissioners at <hi>Goldsmiths-hall</hi> to hear and determine all the said Cases; the said Commissioners proceeding therein according to the Rules for Compositions given them by the House, and according to such Articles, as the Compounder hath just right unto the said Articles, being allowed and confirmed by both or either House of Parliament.</p>
+            </div>
+         </div>
+         <div type="license">
+            <p>ORdered by the Commons assembled in Parliament, that the Resolutions of the House touching Delinquents and their Compositions be forthwith printed and published.</p>
+            <closer>
+               <signed>Hen. Scobell. Cler. Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed by</hi> Richard Cotes, 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
